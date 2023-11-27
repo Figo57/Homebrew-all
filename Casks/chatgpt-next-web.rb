@@ -1,7 +1,7 @@
 cask "chatgpt-next-web" do
-  version "2.9.9"
-  sha256 "281bba66d9e0604cfcf865687d8e2e42bf477d7096c91fa7ab6c84394fa27326"
-  url "https://github.com/Figo57/GPT-Assets/releases/download/2.9.9/ChatGPT.Next.Web_2.9.9_x64.dmg"
+  version "2.9.12"
+  sha256 "591afe2772d52d6a66b8c8420be1b9adfdd2d19d33e6e68b9ec2ba3fb5b5feb8"
+  url "https://github.com/Figo57/GPT-Assets/releases/download/2.9.12/ChatGPT.Next.Web_2.9.12_x64.dmg"
   name "ChatGPT Next Web"
   desc "A web version of ChatGPT by Figo57"
   homepage "https://github.com/Figo57/GPT-Assets.git"
