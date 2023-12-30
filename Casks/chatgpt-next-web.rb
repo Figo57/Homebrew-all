@@ -5,6 +5,6 @@ cask "chatgpt-next-web" do
   name "ChatGPT Next Web"
   desc "A web version of ChatGPT by Figo57"
   homepage "https://github.com/Figo57/GPT-Assets.git"
-  app "ChatGPT Next Web.app"
+  app "NextChat.app"
 
 end
